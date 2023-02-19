@@ -1,9 +1,15 @@
 function isPalindrome(word) {
   // Write your algorithm here
+  return word.split("").reverse().join('') == word
 }
-
 /* 
   Add your pseudocode here
+
+  write fun
+  accpet arrugment 
+  loop throw the arr
+  if start simmler the end done 
+  else not done 
 */
 
 /*
