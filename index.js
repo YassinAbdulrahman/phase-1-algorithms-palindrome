@@ -7,7 +7,6 @@ function isPalindrome(word) {
 
   write fun
   accpet arrugment 
-  loop throw the arr
   if start simmler the end done 
   else not done 
 */
